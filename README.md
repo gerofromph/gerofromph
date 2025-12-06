@@ -8,7 +8,7 @@
 - Car fixing...
 - Anything about technology...
 - 
-Hi! I'm Gero, a student passionate about all things tech. My top skills include JavaScript, HTML, and CSS. I love building projects—check out one of my favorites: [nerdshub.com](https://gerofromph.github.io/nerdshub.com/).
+Hi! I'm Gero, a student passionate about all things tech. My top skills include JavaScript, HTML, and CSS. I love building projects—check out one of my favorites: [nerdshub.com]([https://gerofromph.github.io/nerdshub.com/](https://gerofromph.github.io/nerdshub/)).
 
 
 <!---
